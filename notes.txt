@@ -1,0 +1,12 @@
+GUI
+- resize slike treba biti flexibilan -> rijeseno?
+- delete-ati prijasnu sliku prije stavljanja nove slike -> rijeseno
+
+60 AKTIVNOSTI:
+- read_txt sto proslijedivati fjama??? -> rijeseno
+
+90 i 120 AKTIVNOSTI:
+- grafovi preveliki za screen -> rijeseno, dodan scrollbar
+
+IMGS:
+- b&w with numbers on them instead of 120 colors and 4 legends?
